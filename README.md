@@ -76,6 +76,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kijae-kim&show_icons=true&theme=radical)
 
 
 - 🔭 I’m currently working on ...
