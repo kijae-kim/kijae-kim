@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
@@ -81,7 +82,13 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kijae-kim&show_icons=true&theme=radical)
+<br>
+
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kijae-kim&show_icons=true&theme=radical)
+</div>
+
+<br>
 
 
 - 🔭 I’m currently working on ...
