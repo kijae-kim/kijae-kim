@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<div align="center>
+<div align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp
 </div>
