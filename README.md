@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 <br>
 
 # **Contact**
-- 김기재
+- Name : 김기재
 - HP : 010-6426-7911
 - E-mail : 99hakssun@gmail.com
 
