@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 
 <br>
 
+
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
@@ -70,6 +71,44 @@ Here are some ideas to get you started:
 </div>
 
 <br>
+<hr>
+
+## 프로젝트
+<details>
+<summary>프로젝트 펼치기</summary>
+
+
+###  [ KDT 1차 프로젝트 | MindGlow ](https://github.com/kijae-kim/MindGlow)
+> 심리상담 어플리케이션
+>
+> 
+
+![메인](https://github.com/user-attachments/assets/029f7a0d-a131-4292-bada-857edb4db8ef)
+
+<br/>
+<hr>
+
+###  [ KDT 2차 프로젝트 | JBTI ](https://github.com/kijae-kim/JBTI)
+> 유저의 MBTI유형을 바탕으로 직업을 추천해주는 어플리케이션 서비스
+>
+> 
+
+![메인](https://github.com/user-attachments/assets/3f4098bd-66bc-466f-b68d-87b8ae02041b)
+
+
+<br>
+<hr>
+
+###  [ KDT 3차 프로젝트 | YET | ComputerVision Project ]()
+>
+> 
+![프레젠테이션1](https://github.com/user-attachments/assets/da186406-f83e-4c93-8538-a5a32db294e0)
+
+
+</details>
+
+<br/>
+<hr>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
