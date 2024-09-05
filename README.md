@@ -133,6 +133,4 @@ Here are some ideas to get you started:
 - Name : 김기재
 - HP : 010-6426-7911
 - E-mail : 99hakssun@gmail.com
-
-
-
+- <img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/>
