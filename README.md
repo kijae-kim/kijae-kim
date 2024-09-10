@@ -136,4 +136,6 @@ Here are some ideas to get you started:
 - Name : 김기재
 - HP : 010-6426-7911
 - E-mail : 99hakssun@gmail.com
-- <img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/>
+<a href="https://www.notion.so/kijae-kim/Kijae-Kim-AI-Developer-fc55dc5e0fc546329947eb18afa93cf8?pvs=4">
+    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
+  </a>
