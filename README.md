@@ -44,7 +44,10 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <a href="https://www.notion.so/kijae-kim/Kijae-Kim-AI-Developer-fc55dc5e0fc546329947eb18afa93cf8?pvs=4">
+    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
+  </a>&nbsp
+    
 </div>
 
 <div align="center">
