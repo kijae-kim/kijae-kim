@@ -102,10 +102,10 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-###  [ KDT 3차 프로젝트 | YET | ComputerVision Project ]()
->
+###  [ KDT 3차 프로젝트 | Auto-Aware ](https://github.com/kijae-kim/Auto_Aware)
+> 운전 중 발생하는 피로, 주의력 저하로 인한 사고와 도난에 대처 하기 위한 운전자 보조 서비스
 > 
-![프레젠테이션1](https://github.com/user-attachments/assets/da186406-f83e-4c93-8538-a5a32db294e0)
+![AutoAware(Title).pdf](https://github.com/user-attachments/files/16941396/AutoAware.pdf)
 
 
 </details>
