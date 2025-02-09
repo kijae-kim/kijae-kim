@@ -84,53 +84,63 @@ Here are some ideas to get you started:
 <summary>프로젝트 펼치기</summary>
 
 
-###  [ KDT 1차 프로젝트 | MindGlow ](https://github.com/kijae-kim/MindGlow)
+###  [ OpenCV기반 프로젝트 | Auto-Aware ](https://github.com/kijae-kim/Auto_Aware)
+> 운전 중 발생하는 피로, 주의력 저하로 인한 사고와 도난에 대처 하기 위한 운전자 보조 서비스
+>
+> 
+![메인](https://github.com/user-attachments/assets/1b586737-b6cb-49a0-bae9-516e933be3cb)
+
+<br/>
+<hr>
+
+
+###  [ Ko-BERT기반 프로젝트 | JBTI ](https://github.com/kijae-kim/JBTI)
+> Audio 데이터의 특징을 MFCC기밥으로 분류 후 머신러닝 기법으로 음악의 장르를 분류한 프로젝트
+> 
+> 
+
+![메인](https://github.com/user-attachments/assets/3f4098bd-66bc-466f-b68d-87b8ae02041b)
+
+<br>
+<hr>
+
+###  [ Handcrafted Feature활용 | 음악 장르 분류기 ](https://github.com/kijae-kim/music_Classify)
+> 유저의 MBTI유형을 바탕으로 직업을 추천해주는 어플리케이션 서비스
+>
+> 
+
+```
+📁 music-genre-classifier
+├── 📁 data/            # 학습 및 테스트에 사용된 데이터셋
+├── 📁 notebooks/       # 데이터 탐색 및 실험용 Jupyter 노트북
+├── 📁 models/          # 학습된 모델 및 로그
+├── 📁 src/             # 소스 코드
+│   ├── preprocess.py   # 오디오 데이터 전처리
+│   ├── features.py     # 특징 추출 함수
+│   ├── train.py        # 모델 학습 및 평가
+│   └── predict.py      # 예측 파이프라인
+├── 📄 requirements.txt # 프로젝트 종속성
+└── 📄 README.md        # 프로젝트 문서
+```
+
+<br>
+<hr>
+
+###  [ 어플리케이션 개발 프로젝트 | MindGlow ](https://github.com/kijae-kim/MindGlow)
 > 심리상담 어플리케이션
 >
 > 
 
 ![메인](https://github.com/user-attachments/assets/029f7a0d-a131-4292-bada-857edb4db8ef)
 
-<br/>
-<hr>
-
-###  [ KDT 2차 프로젝트 | JBTI ](https://github.com/kijae-kim/JBTI)
-> 유저의 MBTI유형을 바탕으로 직업을 추천해주는 어플리케이션 서비스
->
-> 
-
-![메인](https://github.com/user-attachments/assets/3f4098bd-66bc-466f-b68d-87b8ae02041b)
-
-
-<br>
-<hr>
-
-###  [ KDT 3차 프로젝트 | Auto-Aware ](https://github.com/kijae-kim/Auto_Aware)
-> 운전 중 발생하는 피로, 주의력 저하로 인한 사고와 도난에 대처 하기 위한 운전자 보조 서비스
-> 
-![메인](https://github.com/user-attachments/assets/1b586737-b6cb-49a0-bae9-516e933be3cb)
 
 </details>
 
 <br/>
 <hr>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://kiitstudy.tistory.com">
-    <img src="https://img.shields.io/badge/tistory-FC4C02?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:99hakssun@gmail.com">
-    <img
-      src="https://img.shields.io/badge/99hakssun@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
 
-<br>
 
-<div align="center">
-<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kijae-kim&show_icons=true&theme=radical) -->
-</div>
 
 <br>
 
@@ -138,6 +148,8 @@ Here are some ideas to get you started:
 - Name : 김기재
 - HP : 010-6426-7911
 - E-mail : 99hakssun@gmail.com
-<a href="https://www.notion.so/kijae-kim/Kijae-Kim-AI-Developer-fc55dc5e0fc546329947eb18afa93cf8?pvs=4">
+- <a href="https://kiitstudy.tistory.com">
+    <img src="https://img.shields.io/badge/tistory-FC4C02?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
+  </a> <a href="https://www.notion.so/kijae-kim/Kijae-Kim-AI-Developer-fc55dc5e0fc546329947eb18afa93cf8?pvs=4">
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
   </a>
