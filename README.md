@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋 
 
 <!--
 **kijae-kim/kijae-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -51,7 +52,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
@@ -60,7 +61,9 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/pycharm-2C2C32.svg?style=for-the-badge&logo=pycharm&logoColor=578B34" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
+  <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge"/>
+  
 </div>
 
 <br>
@@ -76,7 +79,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-## 프로젝트
+#  📚 프로젝트 
 <details>
 <summary>프로젝트 펼치기</summary>
 
@@ -105,8 +108,7 @@ Here are some ideas to get you started:
 ###  [ KDT 3차 프로젝트 | Auto-Aware ](https://github.com/kijae-kim/Auto_Aware)
 > 운전 중 발생하는 피로, 주의력 저하로 인한 사고와 도난에 대처 하기 위한 운전자 보조 서비스
 > 
-![AutoAware(Title).pdf](https://github.com/user-attachments/files/16941396/AutoAware.pdf)
-
+![메인](https://github.com/user-attachments/assets/1b586737-b6cb-49a0-bae9-516e933be3cb)
 
 </details>
 
@@ -132,7 +134,7 @@ Here are some ideas to get you started:
 
 <br>
 
-# **Contact**
+#  ⭐️ Contact 
 - Name : 김기재
 - HP : 010-6426-7911
 - E-mail : 99hakssun@gmail.com
