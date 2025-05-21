@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 
 
 ###  [ Ko-BERT기반 프로젝트 | JBTI ](https://github.com/kijae-kim/JBTI)
-> Audio 데이터의 특징을 MFCC기밥으로 분류 후 머신러닝 기법으로 음악의 장르를 분류한 프로젝트
+> 유저의 MBTI유형을 바탕으로 직업을 추천해주는 어플리케이션 서비스
 > 
 > 
 
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 <hr>
 
 ###  [ Handcrafted Feature활용 | 음악 장르 분류기 ](https://github.com/kijae-kim/music_Classify)
-> 유저의 MBTI유형을 바탕으로 직업을 추천해주는 어플리케이션 서비스
+>  Audio 데이터의 특징을 MFCC기밥으로 분류 후 머신러닝 기법으로 음악의 장르를 분류한 프로젝트
 >
 > 
 
